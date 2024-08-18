@@ -1,3 +1,5 @@
+myenv/
+*.jpg
 .nfs*
 
 # compilation and distribution
